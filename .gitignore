@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+
+build/
+
+*.log
+*.iml
+.editorconfig
+
+bin/
+gen/
+out/
+release/
+target/
